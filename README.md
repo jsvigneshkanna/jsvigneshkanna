@@ -27,12 +27,6 @@ I have been coding for last 7 years (whoof). I started with plain HTML and CSS3 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=jsvigneshkanna&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=jsvigneshkanna&icon=0&color=1)](https://visitcount.itsvg.in)
 
