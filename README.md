@@ -6,13 +6,13 @@ Software Engineer | Freelancer | Blogger
 
 I have been coding for last 7 years (whoof). I started with plain HTML and CSS3 for making website clones and gradually moved to newer frameworks. I am working as full-time software engineer in \`Gain Credit\`. I also do freelance works on mobile and web app development. I started writing technology blogs from 2023 as a new year resolution which you can find below.
 # 💫About Me :
-🌍 I'm based in India
-🖥️ See my portfolio at Portfolio Website
-✉️ You can contact me at vkrishitaran@gmail.com
-🚀 I'm currently working on Gain Credit
-🧠 I'm learning Astro, NextJS13, Web3
-🤝 I'm open to collaborating on Web3 and Web2 projects
-⚡ I know to develop games, but it would on be played by me, Hope you like those one day
+- 🌍 I'm based in India
+- 🖥️ See my portfolio at Portfolio Website
+- ✉️ You can contact me at vkrishitaran@gmail.com
+- 🚀 I'm currently working on Gain Credit
+- 🧠 I'm learning Astro, NextJS13, Web3
+- 🤝 I'm open to collaborating on Web3 and Web2 projects
+- ⚡ I know to develop games, but it would on be played by me, Hope you like those one day
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hpv3Umd6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jsvigneshkanna) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vigneshkanna) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Vignesh-Kanna-24) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10629339) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jsvigneshkanna) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC-8cPQe6kqQ-oQF7kA9XEgA)
