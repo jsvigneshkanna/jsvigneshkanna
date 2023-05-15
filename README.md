@@ -4,7 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | Freelancer | Blogger
 ----------------------------------------
 
-I have been coding for last 7 years (whoof). I started with plain HTML and CSS3 for making website clones and gradually moved to newer frameworks. I am working as full-time software engineer in \`Gain Credit\`. I also do freelance works on mobile and web app development. I started writing technology blogs from 2023 as a new year resolution which you can find below.
+Hello, I'm JS Vignesh Kanna, a passionate software engineer with over 3 years of experience in various domains, including machine learning, research, and fintech. Currently, I am working as a full stack engineer at Gain Credit, a Fintech company based in the UK.
+
+In my role, I specialize in Python, Django, ReactJS, NextJS, MySQL, and AWS, enabling me to develop robust and scalable solutions. I thrive on the challenges of creating seamless user experiences and ensuring efficient backend operations.
+
+Outside of my work, I actively contribute to open source projects. Since 2021, I have participated in Hacktoberfest and made significant contributions to renowned repositories such as Apache Airflow, Novu, and 4C Dev. These experiences have strengthened my skills and broadened my understanding of collaborative software development.
+
+Looking ahead, I aspire to become a Dev Advocate, combining my technical expertise with my passion for sharing knowledge and empowering developers. I am dedicated to staying at the forefront of emerging technologies and leveraging my skills to drive innovation and create meaningful impact.
+
+Feel free to connect with me on professional platforms like LinkedIn. Let's collaborate and build a brighter future through technology!
 # 💫About Me :
 - 🌍 I'm based in India
 - 🖥️ See my portfolio at Portfolio Website
