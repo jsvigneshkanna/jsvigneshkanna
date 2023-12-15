@@ -4,15 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | Freelancer | Blogger
 ----------------------------------------
 
-Hello, I'm JS Vignesh Kanna, a passionate software engineer with over 3 years of experience in various domains, including machine learning, research, and fintech. Currently, I am working as a full stack engineer at PropertyGuru, a proptech based in singapore.
+Hello, I'm JS Vignesh Kanna, a passionate software engineer with over 3 years of experience in various domains, including machine learning, research, and fintech. Currently, I am working as a full stack engineer at PropertyGuru, a proptech based in Singapore.
 
 In my role, I specialize in NestJS, Typescript, Opensearch, AWS, and ReactJS enabling me to develop robust and scalable solutions. I thrive on the challenges of creating seamless user experiences and ensuring efficient backend operations.
 
-Outside of my work, I actively contribute to open source projects. Since 2021, I have participated in Hacktoberfest and made significant contributions to renowned repositories such as Apache Airflow, Novu, and 4C Dev. These experiences have strengthened my skills and understanding of collaborative software development.
+Outside of my work, I actively contribute to open-source projects. Since 2021, I have participated in Hacktoberfest and made significant contributions to renowned repositories such as Apache Airflow, Novu, and 4C Dev. These experiences have strengthened my skills and understanding of collaborative software development.
 
 # 💫About Me :
 - 🌍 I'm based in India
-- 🖥️ See my portfolio at the Portfolio Website
+- 🖥️ See my portfolio at the [Portfolio Website](https://jsvigneshkanna.netlify.app/)
 - ✉️ You can contact me at vkrishitaran@gmail.com
 - 🚀 I'm currently working on PropertyGuru
 - 🧠 I'm learning Astro, NextJS13, Web3
