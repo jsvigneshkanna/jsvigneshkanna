@@ -17,6 +17,10 @@ Outside of my work, I actively contribute to open-source projects. Since 2021, I
 - 🚀 I'm currently working on PropertyGuru
 - 🧠 I'm learning Astro, NextJS13, Web3
 ---
+
+<a href="https://app.daily.dev/vigneshkanna108"><img src="https://api.daily.dev/devcards/12016959b5b84f1d83cdee1270d1d5fb.png?r=3iv" width="400" alt="vignesh kanna's Dev Card"/></a>
+
+
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hpv3Umd6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jsvigneshkanna) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC-8cPQe6kqQ-oQF7kA9XEgA)
 
