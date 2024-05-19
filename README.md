@@ -31,8 +31,6 @@ Outside of my work, I actively contribute to open-source projects. Since 2021, I
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jsvigneshkanna?color=f9e692&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
 </p>
 
----
-
 <br />
 <h2>Languages and Tools</h2>
 <p align="center">
@@ -108,7 +106,3 @@ Outside of my work, I actively contribute to open-source projects. Since 2021, I
 [![](https://visitcount.itsvg.in/api?id=jsvigneshkanna&icon=0&color=1)](https://visitcount.itsvg.in)
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jsvigneshkanna) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/user?u=85229311)
-
-```
-
-```
