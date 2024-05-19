@@ -2,17 +2,13 @@
 
 ## Software Engineer | Freelancer | Interviewer
 
-```
-Something about me:
-
+<h2>Something about me:</h2>
 
 Hello, I'm JS Vignesh Kanna, a software engineer with over 4 years of experience in various domains, including machine learning, research, and fintech and e-realestate. Currently, I am working as a platform-backend engineer PropertyGuru, a proptech based in Singapore.
 
 In my role, I specialize in NestJS, Typescript, Opensearch, AWS, and ReactJS enabling me to develop robust and scalable solutions. I have built complete listing search, watchlist and data migration services that have significantly improved the user experience and operational efficiency of the platform.
 
 Outside of my work, I actively contribute to open-source projects. Since 2021, I have participated in Hacktoberfest and made significant contributions to renowned repositories such as Apache Airflow, Novu, and 4C Dev. These experiences have strengthened my skills and understanding of collaborative software development.
-
-```
 
 <h2>Github Bio</h2>
 
@@ -21,16 +17,16 @@ Outside of my work, I actively contribute to open-source projects. Since 2021, I
 - Liking my portfolio? Connect on [@LinkedIn](https://www.linkedin.com/in/jsvigneshkanna/)
 - I'm learning Web3, AWS, and DevOps
 
-<p align="left"> 
+<p align="left">
   <a href="https://github.com/jsvigneshkanna?tab=repositories&sort=stargazers#gh-light-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jsvigneshkanna?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
-  
+
   <a href="https://github.com/jsvigneshkanna?tab=repositories&sort=stargazers#gh-dark-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jsvigneshkanna?color=c691e9&style=for-the-badge&labelColor=655489&logo=star#gh-dark-mode-only"/></a>
-  
+
   <a href="https://github.com/jsvigneshkanna?tab=followers#gh-light-mode-only">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jsvigneshkanna?color=2c4954&labelColor=2c3e50&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-light-mode-only"/></a>
-    
+
   <a href="https://github.com/jsvigneshkanna?tab=followers#gh-dark-mode-only">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jsvigneshkanna?color=f9e692&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
 </p>
@@ -38,7 +34,7 @@ Outside of my work, I actively contribute to open-source projects. Since 2021, I
 ---
 
 <br />
-<h2>Languages and Tools</h2> 
+<h2>Languages and Tools</h2>
 <p align="center">
 
 <img width="50px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=js"  />
@@ -94,7 +90,7 @@ Outside of my work, I actively contribute to open-source projects. Since 2021, I
 
 <a href="https://github.com/jsvigneshkanna#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api?username=jsvigneshkanna&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="jsvigneshkanna" /></a>
 
-</p> 
+</p>
 <br>
 <br />
 
@@ -112,3 +108,7 @@ Outside of my work, I actively contribute to open-source projects. Since 2021, I
 [![](https://visitcount.itsvg.in/api?id=jsvigneshkanna&icon=0&color=1)](https://visitcount.itsvg.in)
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jsvigneshkanna) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/user?u=85229311)
+
+```
+
+```
